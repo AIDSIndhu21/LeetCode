@@ -1,4 +1,4 @@
-#--DAY 1--
+# DAY 1
     PROBLEM TITLE: TWO SUM
     PROBLEM EXPLANATION:
         This solution uses a nested loop approach to check every possible pair of elements in the array:
