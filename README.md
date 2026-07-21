@@ -6,4 +6,8 @@
             >>Inner Loop (`j`): Iterates through subsequent elements starting from index `i + 1` to avoid checking the same pair or using an element twice.
             >>Check Sum: Checks if `nums[i] + nums[j] == target`. If true, returns `[i, j]`.
 
-____________________________________________________________________________________________________
+----------------------------------------------------------------------------------------------------
+# DAY 2
+    PROBLEM TITLE:REVERSE STRING
+    PROBLEM EXPLANATION:
+            >>Solved using python lists built-in function > .reverse()
