@@ -11,3 +11,16 @@
     PROBLEM TITLE:REVERSE STRING
     PROBLEM EXPLANATION:
             >>Solved using python lists built-in function > .reverse()
+ ---------------------------------------------------------------------------------------------------
+ # DAY 3
+    PROBLEM TITLE:FIZZ BUZZ
+    PROBLEM EXPLANATION:
+            >>Initialized an empty list.
+            >>Loop form 1 to n+1.
+            >>Used if elif and else for Fizzbuzz condition.
+                APPENDS
+                    ~FizzBuzz if i%3==0 and i%5==0
+                    ~Fizz if only i%3==0
+                    ~Buzz if only i%5==0
+                    ~Else Number itself 
+            >>Appended the result to empty list and displayed.         
