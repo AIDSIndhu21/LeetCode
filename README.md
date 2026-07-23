@@ -24,3 +24,10 @@
                     ~Buzz if only i%5==0
                     ~Else Number itself 
             >>Appended the result to empty list and displayed.         
+---------------------------------------------------------------------------------------------------
+# DAY 4
+    PROBLEM TITLE:Reverse Words in a String
+    PROBLEM EXPLANATION:
+            >>Split the string using .split()
+            >>Using slicing method reversed the string and joined and displayed the reversed string.
+            
