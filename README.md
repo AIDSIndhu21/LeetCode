@@ -30,4 +30,12 @@
     PROBLEM EXPLANATION:
             >>Split the string using .split()
             >>Using slicing method reversed the string and joined and displayed the reversed string.
-            
+----------------------------------------------------------------------------------------------------
+
+# DAY 5
+    PROBLEM TITLE:ADD BINARY
+    PROBLEM EXPALNATION:
+            >>Adding two binary strings by specifing it as int and '+' operator is used.
+            >>The specification 'int(a,2)' will allows to read the number as binary if ',2' is not specified the number will read as decimal.
+            >>Using [2:] is used for doesnt considering first two numbers.
+            >>Using 'bin()' the addition result is returned as binary.
