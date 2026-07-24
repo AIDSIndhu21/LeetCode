@@ -39,3 +39,4 @@
             >>The specification 'int(a,2)' will allows to read the number as binary if ',2' is not specified the number will read as decimal.
             >>Using [2:] is used for doesnt considering first two numbers.
             >>Using 'bin()' the addition result is returned as binary.
+----------------------------------------------------------------------------------------------------
